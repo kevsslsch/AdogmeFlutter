@@ -1,4 +1,4 @@
 # Adogme
 
-A new Flutter project.
+Flutter project.
 
